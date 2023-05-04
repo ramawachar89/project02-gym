@@ -4,7 +4,7 @@ This is a website for a gym that provides information about the gym's facilities
 Description
 The Gym Website is a responsive website built using React and CSS modules. The website features a homepage with an inspirational quote and links to register or login, depending on the user's status. Registered users can access a range of training activities and view pricing plans. The website also includes a footer with links to social media pages.
 
-Getting Started
+Getting Started//
 Installation
 To run this project locally, you'll need to have Node.js installed on your computer. Once Node.js is installed, follow these steps:
 
